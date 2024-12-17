@@ -1,0 +1,18 @@
+.project-item {
+ 
+  text-align: left;
+  width: 250px;
+  height: 250px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.project-card-img {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+}
+.name {
+  font-family: 'Roboto';
+  color: #475569;
+  margin-left: 30px;
+}
